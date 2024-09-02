@@ -46,10 +46,3 @@ wget -O- https://github.com/vinceingithub/thinkpad-grub-theme/raw/master/install
 Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install.sh)
 
 ---
-
-
-
-### See also
-
-- [Poly light GRUB theme](https://github.com/shvchk/poly-light)
-- [Fallout GRUB theme](https://github.com/shvchk/fallout-grub-theme)
