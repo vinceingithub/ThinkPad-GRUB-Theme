@@ -2,9 +2,6 @@
 
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
-![](https://i.imgur.com/OHGyR2N.gif)
-
-Screenshot is intentionally low res to fit GitHub UI.
 ---
 
 
@@ -49,6 +46,7 @@ wget -O- https://github.com/vinceingithub/thinkpad-grub-theme/raw/master/install
 Full list of languages see in `INSTALLER_LANGS` variable in [install.sh](install.sh)
 
 ---
+
 
 
 ### See also
