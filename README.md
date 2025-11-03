@@ -1,4 +1,5 @@
 ## ThinkPad GRUB theme
+![screenshot](https://github.com/vinceingithub/thinkpad-grub-theme/raw/master/screenshot.png)
 
 Supported languages: Chinese (simplified), Chinese (traditional), English, French, German, Hungarian, Italian, Korean, Latvian, Norwegian, Polish, Portuguese, Russian, Rusyn, Spanish, Turkish, Ukrainian
 
